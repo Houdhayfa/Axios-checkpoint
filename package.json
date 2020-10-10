@@ -1,0 +1,22 @@
+{
+  "name": "axios-checkpoint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Houdhayfa/Axios-checkpoint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Houdhayfa/Axios-checkpoint/issues"
+  },
+  "homepage": "https://github.com/Houdhayfa/Axios-checkpoint#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
